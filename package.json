@@ -1,0 +1,19 @@
+{
+  "name": "visualcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NumberNarccisist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev1": "nodemon NumberNarccisist.js",
+    "dev2": "nodemon TakeaTenMinutes.js",
+    "dev3": "nodemon WhoLikesIt.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
