@@ -39,7 +39,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon TwoSum.js"
+    "dev": "nodemon Int32Ipv4.js"
   },
   "repository": {
     "type": "git",
